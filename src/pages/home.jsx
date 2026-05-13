@@ -9,8 +9,9 @@ import Achievement from "../components/Achievement";
 import Testimonial from "../components/Testimonial";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
+import { Home } from 'lucide-react';
 
-const home = () => {
+const Home = () => {
   return (
    <main className="bg-black text-white overflow-hidden">
     
@@ -27,4 +28,4 @@ const home = () => {
   )
 }
 
-export default home
+export default Home
