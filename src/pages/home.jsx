@@ -9,7 +9,7 @@ import Achievement from "../components/Achievement";
 import Testimonial from "../components/Testimonial";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import { Home } from 'lucide-react';
+// import { Home } from 'lucide-react';
 
 const Home = () => {
   return (
